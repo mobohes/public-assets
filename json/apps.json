@@ -65,7 +65,7 @@
   {
     "name": "SingBox",
     "urlScheme": "sing-box://import-remote-profile",
-    "image": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
+    "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
     "link": "sing-box://import-remote-profile?url={url}#MattSub",
     "os": ["iOS", "Android", "Linux"],
     "downloadLinks": {
